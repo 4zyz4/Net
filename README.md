@@ -1,0 +1,1 @@
+安装命令： `sudo bash shadowsocks.sh`   
